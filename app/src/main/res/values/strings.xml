@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">testworkmate</string>
+
+    <string name="countries">Countries</string>
+    <string name="continent">Continent</string>
+    <string name="capital">Capital</string>
+    <string name="language">Language</string>
+    <string name="currency">Currency</string>
+    <string name="other_details">Other details</string>
+    <string name="emoji_flag">Emoji flag</string>
+
+    <string name="try_again">Try again</string>
+    <string name="pop">Go back</string>
+
+    <string name="loading_countries">Loading countries...</string>
+    <string name="loading_clear_cache">Clearing cache...</string>
+    <string name="loading_country_details">Loading country details...</string>
+
+    <string name="no_countries">No countries fetched</string>
+    <string name="no_country_details">No country details provided</string>
+
+    <string name="unexpected_error">Unexpected error occurred</string>
+
+    <string name="clear_cache">Clear cache</string>
+</resources>

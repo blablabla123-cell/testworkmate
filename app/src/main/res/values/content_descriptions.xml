@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_content_description">Error</string>
+    <string name="arrow_back_content_description">Back</string>
+    <string name="update_content_description">Update</string>
+    <string name="more_content_description">More</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="countries">Страны</string>
+    <string name="continent">Континент</string>
+    <string name="capital">Столица</string>
+    <string name="language">Язык</string>
+    <string name="currency">Валюта</string>
+    <string name="other_details">Другие детали</string>
+    <string name="emoji_flag">Эмоджи флаг</string>
+
+    <string name="try_again">Попробуйте еще раз</string>
+    <string name="pop">Вернуться назад</string>
+
+    <string name="loading_countries">Загружаем список стран...</string>
+    <string name="loading_clear_cache">Очищаем кэш...</string>
+    <string name="loading_country_details">Загружаем детали страны...</string>
+
+    <string name="no_countries">Страны не загружены</string>
+    <string name="no_country_details">Детали страны не предоставлены</string>
+
+    <string name="unexpected_error">Произошла непредвиденная ошибка</string>
+
+    <string name="clear_cache">Очистить кэш</string>
+</resources>

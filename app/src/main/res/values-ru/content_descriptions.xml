@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_content_description">Ошибка</string>
+    <string name="arrow_back_content_description">Назад</string>
+    <string name="update_content_description">Обновить</string>
+    <string name="more_content_description">Больше</string>
+</resources>
